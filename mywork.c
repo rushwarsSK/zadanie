@@ -2,6 +2,6 @@
 
 
 int main() {
-    printf("nieco");
+    printf("nieco ine");
     return 0;
 }
